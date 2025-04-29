@@ -1,0 +1,62 @@
+Debate Topic,Judge Model,Prop_Total,Opp_Total,Winner
+This House believes that free trade benefits all nations.,gemma,7.8,8.8,gemma: Opposition
+This House believes that free trade benefits all nations.,neural-chat,7.2,8.2,neural-chat: Opposition
+This House would implement a universal basic income.,gemma,7.8,8.8,gemma: Opposition
+This House would implement a universal basic income.,neural-chat,6.3,8.6,neural-chat: Opposition
+This House would raise the minimum wage significantly.,gemma,7.8,8.8,gemma: Opposition
+This House would raise the minimum wage significantly.,neural-chat,6.6,8.6,neural-chat: Opposition
+This House would ban single-use plastics.,gemma,7.8,8.8,gemma: Opposition
+This House would ban single-use plastics.,neural-chat,7.5,8.4,neural-chat: Opposition
+This House would prioritize renewable energy over fossil fuels.,gemma,7.8,8.4,gemma: Opposition
+This House would prioritize renewable energy over fossil fuels.,neural-chat,6.8,8.8,neural-chat: Opposition
+This House believes developed nations should pay for climate change damages in developing countries.,gemma,7.8,8.4,gemma: Opposition
+This House believes developed nations should pay for climate change damages in developing countries.,neural-chat,8.4,8.6,neural-chat: Opposition
+This House would ban social media for children under 16.,gemma,7.2,7.8,gemma: Opposition
+This House would ban social media for children under 16.,neural-chat,7.5,8.8,neural-chat: Opposition
+This House believes artificial intelligence will do more good than harm.,gemma,7.8,8.8,gemma: Opposition
+This House believes artificial intelligence will do more good than harm.,neural-chat,6.66,8.4,neural-chat: Opposition
+This House would regulate big tech companies as public utilities.,gemma,7.8,8.4,gemma: Opposition
+This House would regulate big tech companies as public utilities.,neural-chat,8.6,9.0,neural-chat: Opposition
+This House would make voting compulsory.,gemma,7.8,8.8,gemma: Opposition
+This House would make voting compulsory.,neural-chat,6.6,8.4,neural-chat: Opposition
+This House supports affirmative action in university admissions.,gemma,7.8,8.8,gemma: Opposition
+This House supports affirmative action in university admissions.,neural-chat,4.3,7.5,neural-chat: Opposition
+This House believes standardized testing is harmful to education.,gemma,7.8,8.4,gemma: Opposition
+This House believes standardized testing is harmful to education.,neural-chat,8.7,9.02,neural-chat: Opposition
+This House would break up monopolies in the technology sector.,gemma,7.2,8.2,gemma: Opposition
+This House would break up monopolies in the technology sector.,neural-chat,7.59,8.33,neural-chat: Opposition
+This House believes that cryptocurrencies should be regulated like traditional currencies.,gemma,7.8,7.6,gemma: Proposition
+This House believes that cryptocurrencies should be regulated like traditional currencies.,neural-chat,7.0,9.4,neural-chat: Opposition
+This House would implement a wealth tax on the super-rich.,gemma,7.8,8.8,gemma: Opposition
+This House would implement a wealth tax on the super-rich.,neural-chat,8.15,9.5,neural-chat: Opposition
+This House believes that international sanctions are an effective diplomatic tool.,gemma,7.8,8.4,gemma: Opposition
+This House believes that international sanctions are an effective diplomatic tool.,neural-chat,8.5,8.1,neural-chat: Proposition
+This House would allow nations to leave international agreements without penalties.,gemma,7.8,8.4,gemma: Opposition
+This House would allow nations to leave international agreements without penalties.,neural-chat,7.15,7.69,neural-chat: Opposition
+This House believes the United Nations Security Council should be reformed.,gemma,7.8,8.4,gemma: Opposition
+This House believes the United Nations Security Council should be reformed.,neural-chat,6.6,7.8,neural-chat: Opposition
+This House believes that freedom of speech should include hate speech.,gemma,7.8,8.8,gemma: Opposition
+This House believes that freedom of speech should include hate speech.,neural-chat,8.2,9.4,neural-chat: Opposition
+This House would legalize voluntary euthanasia.,gemma,7.8,8.8,gemma: Opposition
+This House would legalize voluntary euthanasia.,neural-chat,6.7,8.8,neural-chat: Opposition
+This House believes that privacy is more important than security.,gemma,7.8,8.4,gemma: Opposition
+This House believes that privacy is more important than security.,neural-chat,8.2,8.4,neural-chat: Opposition
+This House would hold social media platforms legally liable for harmful content,gemma,7.8,8.8,gemma: Opposition
+This House would hold social media platforms legally liable for harmful content,neural-chat,6.5,8.4,neural-chat: Opposition
+This House believes genetic modification of humans should be permitted,phi,8.08,8.78,phi: Opposition
+This House believes genetic modification of humans should be permitted,gemma,7.8,8.4,gemma: Opposition
+This House believes genetic modification of humans should be permitted,neural-chat,8.1,9.4,neural-chat: Opposition
+This House would implement a robot tax on automation that replaces human jobs,gemma,7.8,8.8,gemma: Opposition
+This House would implement a robot tax on automation that replaces human jobs,neural-chat,6.3,8.2,neural-chat: Opposition
+This House believes that economic development should be prioritized over environmental protection in developing nations,gemma,7.8,8.6,gemma: Opposition
+This House believes that economic development should be prioritized over environmental protection in developing nations,neural-chat,5.6,7.8,neural-chat: Opposition
+This House would implement a global tax on carbon emissions,gemma,7.8,8.8,gemma: Opposition
+This House would implement a global tax on carbon emissions,neural-chat,6.0,8.8,neural-chat: Opposition
+This House believes that international law should supersede national sovereignty,gemma,7.6,8.6,gemma: Opposition
+This House believes that international law should supersede national sovereignty,neural-chat,7.5,8.3,neural-chat: Opposition
+This House believes that states should be allowed to restrict immigration based on cultural compatibility,gemma,7.8,8.4,gemma: Opposition
+This House believes that states should be allowed to restrict immigration based on cultural compatibility,neural-chat,8.4,9.2,neural-chat: Opposition
+This House would allow citizens to sell their votes,gemma,7.8,8.8,gemma: Opposition
+This House would allow citizens to sell their votes,neural-chat,8.0,8.8,neural-chat: Opposition
+This House believes that intergenerational equity should be a primary consideration in policymaking,gemma,7.8,8.2,gemma: Opposition
+This House believes that intergenerational equity should be a primary consideration in policymaking,neural-chat,7.52,8.82,neural-chat: Opposition
