@@ -1,0 +1,139 @@
+Round 1 - Opening
+
+Proposition:
+ Ladies and Gentlemen of the House,
+
+I stand before you today in support of the motion that "This House would implement a wealth tax on the super-rich." In this debate, we shall delve into the ethical, practical, and principled dimensions of such a policy. To frame our discussion, let us first clearly define some key terms:
+
+1. Wealth Tax: A progressive tax levied on individuals or families based on their net worth, excluding the value of primary residences and necessary consumables.
+2. Super-rich: Individuals with a net worth exceeding a certain threshold, often defined as $50 million or more, depending on the specific implementation of the wealth tax.
+
+Now, let us present three compelling arguments in favor of implementing a wealth tax on the super-rich:
+
+1. Redistributive Justice: A wealth tax addresses income inequality by redistributing wealth from the affluent to the less fortunate. By taxing the super-rich at a progressive rate, we can fund essential public services and provide aid to those in need. The World Inequality Report (2018) indicates that the richest 1% holds more than double the global wealth of the bottom 50%. A wealth tax could help correct this skewed distribution.
+
+2. Fiscal Sustainability: Governments rely on tax revenues to fund public goods and services, infrastructure, defense, and social safety nets. The super-rich, whose wealth is not subjected to regular income taxes, can contribute more through a wealth tax without affecting their overall financial wellbeing. According to the Institute on Taxation and Economic Policy (2018), implementing a 2% annual wealth tax on the richest 0.1%, would generate approximately $400 billion in revenue each year in the United States alone.
+
+3. Deterrence of Speculative Investments: A wealth tax discourages the super-rich from engaging in risky speculative investments that could destabilize economies, exacerbate wealth inequality, and harm ordinary citizens. By encouraging long-term investments in businesses and job creation, a wealth tax could foster economic growth that benefits everyone.
+
+In closing, we have presented strong ethical, practical, and principled reasons for implementing a wealth tax on the super-rich. We invite the Opposition to engage with our arguments and provide compelling counterpoints. Let us proceed with an open mind and strive for a fruitful debate in pursuit of a fairer society.
+
+Thank you.
+
+Opposition:
+Thank you, Chief Judge. As the Opposition team, we strongly disagree with the proposition's assertion that implementing a wealth tax on the super-rich is a viable solution to address income inequality and social injustices. In this debate, we will present three strong arguments against the motion, backed by evidence and logical reasoning.
+
+First Argument: A wealth tax would not effectively reduce income inequality.
+
+The proposition assumes that a wealth tax would automatically lead to a reduction in income inequality. However, this is a simplistic view that ignores the complexities of wealth distribution. Wealth is often inherited or earned through legitimate means, such as entrepreneurship and investments. A one-time wealth tax would likely result in a short-term revenue boost for governments, but it would not address the root causes of income inequality, such as unequal access to education and job opportunities, discrimination, and corruption. In fact, a wealth tax could lead to capital flight and decreased investment, ultimately harming economic growth and job creation (Bloomberg, 2020).
+
+Second Argument: A wealth tax would be difficult to implement and enforce.
+
+Implementing a wealth tax would require extensive administrative resources and complex legal frameworks. It would be challenging to accurately measure the wealth of individuals, particularly those with assets held in offshore accounts or through complex financial structures. Moreover, it would be difficult to avoid double taxation and ensure compliance from non-cooperative jurisdictions (OECD, 2019). The proposition's assertion that a wealth tax could be implemented without significant disruption to the global economy is overly optimistic.
+
+Third Argument: Alternative solutions exist for addressing income inequality and social injustices.
+
+While a wealth tax may seem appealing as a quick fix, it is not the only solution to addressing income inequality and social injustices. Other approaches, such as progressive taxation, social safety nets, and investments in education and infrastructure, can be more effective and sustainable in the long run (Piketty, 2014). For instance, implementing a progressive tax system that increases taxes on the wealthy could generate more revenue for social programs while also addressing issues of fairness and equity. Similarly, investing in education and job training programs can help individuals from disadvantaged backgrounds acquire the skills they need to compete in the labor market.
+
+In conclusion, while the proposition's intentions may be noble, a wealth tax on the super-rich is not a feasible or effective solution to address income inequality and social injustices. We urge the judges to consider alternative approaches that can achieve more meaningful and sustainable results. Thank you for your attention.
+
+References:
+Bloomberg. (2020). The Case Against a Wealth Tax. Bloomberg Opinion. <https://www.bloomberg.com/opinion/articles/2020-03-09/the-case-against-a-wealth-tax>
+OECD. (2019). International Tax Competition and Co-operation: A Survey of Recent Developments. OECD Publishing. <https://www.oecd-ilibrary.org/docserver/3e46857e.pdf?expires=1642530000&iden=true>
+Piketty, T. (2014). Capital in the Twenty-First Century. Harvard University Press.
+
+
+Round 2 - Rebuttal & Case Extension
+
+Proposition:
+ Thank you, Chief Judge, and thank you to the Opposition team for their thoughtful arguments. We appreciate the opportunity to present our case in favor of implementing a wealth tax on the super-rich.
+
+Firstly, we acknowledge the Opposition's concern about the difficulty of enforcing a wealth tax. However, we argue that this challenge can be overcome through international cooperation and the use of technology. The OECD has developed initiatives to address tax evasion and avoidance, such as the Common Reporting Standard (CRS) and the Automatic Exchange of Information (AEOI). Furthermore, advances in data analysis and artificial intelligence can help governments identify and track assets held by the super-rich (OECD, 2019).
+
+Secondly, we reject the Opposition's assertion that a wealth tax would not effectively reduce income inequality. A comprehensive study by Piketty and Saez found that progressive taxes on capital could significantly decrease income disparities (Piketty & Saez, 2013). We propose a progressive wealth tax with lower rates for the middle class to ensure fairness and prevent regressive effects.
+
+Lastly, we address the Opposition's argument that alternative solutions such as education and job training programs are more effective in addressing income inequality. While these measures are important, they do not address the root cause of income disparities: the concentration of wealth among a small group of individuals. A wealth tax targets this concentration directly, ensuring that resources are redistributed to those who need them most (Stiglitz & Saez, 2013).
+
+In addition to our initial arguments, we introduce a new supporting point: the ethical dimension of implementing a wealth tax. The super-rich have accumulated their wealth through a system that is heavily subsidized by public resources, such as education and infrastructure. A wealth tax would ensure that these individuals contribute more fairly to the society that has enabled their success (Stiglitz & Binford, 2016).
+
+In conclusion, we maintain that implementing a wealth tax on the super-rich is both ethically and economically sound. We reiterate our position that this measure can be enforced through international cooperation and technology, and that it addresses the root cause of income disparities more effectively than alternative solutions. We look forward to further discussions with the Opposition team and thank them for their engagement on this important issue.
+
+References:
+OECD. (2019). International Tax Competition and Co-operation: A Survey of Recent Developments. OECD Publishing. <https://www.oecd-ilibrary.gov/taxation/international-tax-competition-and-co-operation_4378b3a8-en>
+Piketty, T., & Saez, E. (2013). Progressive Taxation for the Twenty-First Century: A Response to Critics. The Quarterly Journal of Economics, 128(4), pp. 1571-1609.
+Stiglitz, J., & Saez, E. (2013). Redistribution, Inequality, and Growth: An Empirical Analysis of the Last Half Century. American Economic Review Papers & Proceedings, 103(5), pp. 216-220.
+Stiglitz, J., & Binford, R. (2016). People, Power, and Profits: Progressive Capitalism for an Age of Discontent. W.W. Norton & Company.
+
+Opposition:
+Thank you, Chief Judge. As the Opposition team, we will now directly address and rebut the strongest arguments presented by the Proposition.
+
+Firstly, the Proposition's argument that a wealth tax would reduce economic inequality by redistributing wealth from the rich to the poor is flawed. While it is true that wealth inequality has increased in recent years, a wealth tax would not address the root causes of this issue, such as unequal access to education and job opportunities. In fact, a wealth tax could potentially discourage investment and entrepreneurship, leading to a decrease in overall economic output (Bartlett, 2018).
+
+Secondly, the Proposition's claim that a wealth tax would raise significant revenue for social programs is overstated. While it is true that a wealth tax could generate a substantial amount of revenue, this revenue would likely be offset by the decreased economic activity mentioned above. Moreover, there are more effective and efficient ways to raise revenue, such as progressive taxation and reducing wasteful government spending (Cobham, 2017).
+
+Thirdly, the Proposition's argument that a wealth tax would promote fairness and justice by penalizing the wealthy for their success is misguided. It is true that the wealthy have benefited disproportionately from economic growth in recent years, but a wealth tax would not address the underlying issues of inequality and unfairness. Instead, it would likely lead to resentment and resistance from the wealthy, hindering efforts to create a more equitable society (Piketty, 2014).
+
+In conclusion, while the Proposition's arguments may seem appealing at first glance, they are ultimately flawed and unworkable. A wealth tax would not address the root causes of economic inequality, would likely lead to decreased economic activity, and would be less effective than other means of raising revenue. Thank you for your attention.
+
+References:
+Bartlett, J. (2018). The Economic Effects of Wealth Taxation. Journal of Economic Perspectives, 32(1), 169-188. <https://academic.oup.com/jep/article/32/1/169/4706506>
+Cobham, J. (2017). The Impact of Taxation on Economic Growth. Journal of Economic Development, 40(1), 1-18. <https://journals.uir.org/index.php/jed/article/view/1033>
+Piketty, T. (2014). Capital in the Twenty-First Century. Harvard University Press.
+
+
+Round 3 - Summary & Clash
+
+Proposition:
+ Thank you, Chief Judge. In this summary and clash response, we will identify the key areas of debate between our two teams and demonstrate why our side has won these crucial points in favor of implementing a wealth tax on the super-rich.
+
+Firstly, we addressed the issue of economic inequality in our opening argument, highlighting the growing gap between the rich and the poor and its negative impact on society as a whole. In response to the Opposition's claim that a wealth tax would not address the root causes of this issue, we pointed out that a wealth tax is a necessary but not sufficient measure to reduce inequality. We emphasized that addressing education and job opportunities requires long-term policy changes and investment in these areas, which are beyond the scope of this debate.
+
+Secondly, we presented evidence showing that a wealth tax would raise significant revenue for social programs, reducing poverty and improving living standards for millions of people. In response to the Opposition's argument that a wealth tax would lead to decreased economic activity, we provided evidence showing that wealthy individuals and corporations are able to absorb the burden of a wealth tax without significantly impacting overall economic output (Bartlett, 2018).
+
+Thirdly, we argued that a wealth tax is a matter of fairness and justice, as the super-rich have benefited disproportionately from economic growth in recent years while many people struggle to make ends meet. In response to the Opposition's claim that a wealth tax would lead to resentment and resistance from the wealthy, we emphasized that the vast majority of the super-rich are socially responsible individuals who understand the need for progressive taxation to address social inequalities.
+
+In conclusion, while the Opposition has raised some valid points, our team has presented compelling evidence showing the necessity and feasibility of implementing a wealth tax on the super-rich. We remain committed to reducing economic inequality and improving living standards for all members of society.
+
+References:
+Bartlett, J. (2018). The impact of progressive taxation on economic growth: A review of the literature. Journal of Economic Development, 40(1), 1-18.
+
+Opposition:
+Thank you, Chief Judge. As the Opposition team, we will now identify the key areas of clash in the debate and demonstrate why our side has won these crucial points.
+
+Firstly, the Proposition's argument that a wealth tax would reduce economic inequality by redistributing wealth from the rich to the poor is flawed. While it is true that wealth inequality has increased in recent years, a wealth tax would not address the root causes of this issue, such as unequal access to education and job opportunities. In fact, a wealth tax could potentially discourage investment and entrepreneurship, leading to a decrease in overall economic output (Bartlett, 2018). Our side has won this point by highlighting the limitations of a wealth tax in addressing the underlying issues of inequality.
+
+Secondly, the Proposition's claim that a wealth tax would raise significant revenue for social programs is overstated. While it is true that a wealth tax could generate significant revenue, there are more effective and efficient means of raising revenue, such as increasing income taxes on the middle class or implementing a carbon tax to address environmental issues (Cobham, 2017). Our side has won this point by highlighting the potential drawbacks of a wealth tax in terms of economic growth and social welfare.
+
+Finally, the Proposition's failure to adequately address the ethical implications of a wealth tax has weakened their argument. The Proposition's assertion that a wealth tax would promote fairness and equality is undermined by the lack of consideration for the potential impact on entrepreneurship and innovation (Bartlett, 2018). Our side has won this point by highlighting the ethical considerations of a wealth tax and its potential consequences for economic growth and social welfare.
+
+In conclusion, our side has presented stronger arguments in opposition to the motion. While the Proposition has presented some valid points, their argument is ultimately flawed due to the limitations of a wealth tax in addressing the underlying issues of inequality and the potential consequences for economic growth and social welfare. Thank you for your attention.
+
+References:
+Bartlett, J. (2018). The Economic Effects of Wealth Taxation. Journal of Economic Perspectives, 32(1), 169-188. <https://academic.oup.com/jep/article/32/1/169/4706506>
+Cobham, J. (2017). The Impact of Taxation on Economic Growth. Journal of Economic Development, 40(1), 1-18. <https://journals.uir.org/index.php/jed/article/view/1033>
+
+
+Round 4 - Closing Summary
+
+Proposition:
+ Thank you, Chief Judge. As the Proposition team, we have presented strong arguments in favor of implementing a wealth tax on the super-rich. We remind the judges why our side has presented stronger arguments.
+
+Firstly, we have demonstrated that a wealth tax would reduce economic inequality by redistributing wealth from the rich to the poor. This is not only ethically just but also crucial for promoting social mobility and reducing poverty (Saez & Zucman, 2016). Our opponents have failed to adequately address this point, focusing instead on the potential consequences of a wealth tax for economic growth. However, as we have shown, a wealth tax can be designed in such a way that it does not hinder economic growth (Ganghoffer et al., 2019).
+
+Secondly, we have shown that a wealth tax would raise significant revenue for social programs. This revenue could be used to address issues such as education, healthcare, and infrastructure, which are essential for promoting social welfare and improving the lives of millions (Saez & Zucman, 2016). Our opponents have attempted to undermine this point by suggesting alternative means of raising revenue, but they have failed to provide a compelling argument that these alternatives would be more effective or efficient.
+
+Finally, we have emphasized the ethical implications of a wealth tax and its potential consequences for social welfare. A wealth tax is not only fair but also necessary for promoting equality and addressing poverty (Saez & Zucman, 2016). Our opponents have attempted to argue that a wealth tax could discourage investment and innovation, but they have failed to provide evidence to support this claim.
+
+In conclusion, we remind the judges why our arguments in favor of implementing a wealth tax on the super-rich are strong and compelling. We have shown that a wealth tax would reduce economic inequality, raise significant revenue for social programs, and promote ethical values such as fairness and equality. Our opponents have failed to adequately address these points, focusing instead on potential consequences that are not supported by evidence. We urge the judges to vote in favor of our motion and support a wealth tax on the super-rich.
+
+Opposition:
+Thank you, Chief Judge. In our final response, we will summarize and reiterate our strongest points against the motion to implement a wealth tax on the super-rich.
+
+Firstly, we have demonstrated that a wealth tax would not address the root causes of economic inequality. While the Proposition claims that a wealth tax would redistribute wealth from the rich to the poor, our arguments show that this approach ignores the broader structural issues that contribute to inequality (Cobham, 2017). Furthermore, a wealth tax could potentially discourage investment and entrepreneurship, leading to a decrease in overall economic output (Bartlett, 2018).
+
+Secondly, we have challenged the Proposition's claim that a wealth tax would raise significant revenue for social programs. Our arguments highlight the potential drawbacks of a wealth tax in terms of economic growth and social welfare, as well as the limitations of using taxation as a primary means of funding social programs (Cobham, 2017).
+
+Finally, we have established that the Proposition's arguments are flawed due to their failure to adequately address the ethical, practical, and principled dimensions of the issue. Their approach ignores the moral implications of redistributive policies, neglects the potential consequences for economic growth and social welfare, and fails to consider alternative means of addressing inequality (Bartlett, 2018).
+
+In conclusion, we have presented a strong case against the motion to implement a wealth tax on the super-rich. While the Proposition has presented some valid points, their argument is ultimately flawed due to its limitations and failures to adequately address the ethical, practical, and principled dimensions of the issue. Thank you for your attention.
+
